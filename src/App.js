@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+
+// allows us to gain access to the 'store' somewhere in our app
 import { connect } from 'react-redux';
 import './App.css';
 
